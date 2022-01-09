@@ -1,6 +1,6 @@
 # Jeff Invaders
 #### Video Demo:  <https://www.youtube.com/watch?v=ZcY7n2NuRbs>
-#### Description:![alt text](https://github.com/jbutcher2002/Jeff_Invaders/blob/main/JEFF%20Invaders%202%201_1_2022%203_20_39%20PM.png?raw=true)
+![alt text](https://github.com/jbutcher2002/Jeff_Invaders/blob/main/JEFF%20Invaders%202%201_1_2022%203_20_39%20PM.png?raw=true)#### Description:
   For my CS50 final I made a program in python called Jeff Invaders. I
 made it in Thonny IDE, and used the pygame modual. The only import is pygame. The
 background to this game comes from me and my neighbor's boat trip last summer.
